@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "37030549341",
+    "firebase_url": "https://reservations-5b904.firebaseio.com",
+    "project_id": "reservations-5b904",
+    "storage_bucket": "reservations-5b904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37030549341:android:0d9ae097d01a792a",
+        "android_client_info": {
+          "package_name": "com.example.damian.reservations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37030549341-9v72ia7cdoke237ksbc5e6mpvmm2mhoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.damian.reservations",
+            "certificate_hash": "69540f1faa120f99de3409a9591aef1b7508786b"
+          }
+        },
+        {
+          "client_id": "37030549341-4a8e7nqvi78grsk3r0kub6bstfcvmq5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.damian.reservations",
+            "certificate_hash": "fbfdaca936e5eeced5cfcff9d98de71f868e6061"
+          }
+        },
+        {
+          "client_id": "37030549341-n8e8td31uqnqe5coukah94nr9hhogpes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_Kf_d-5oKIsRc7IQImGKGsT8ivK06hk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37030549341-n8e8td31uqnqe5coukah94nr9hhogpes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

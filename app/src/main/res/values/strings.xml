@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">ReservApp</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="perfil">Mi Perfil</string>
+    <string name="informacion">Informacion</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="sin_canchas">El establecimiento no tiene Canchas Asociadas</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="cerrar_session">Cerrar Sesion</string>
+    <string name="opciones">Mas Opciones</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="contrasena">Password</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="bienvenido">Bienvenido a Reservations</string>
+    <string name="registrar">Registrar</string>
+    <string name="registra_usuario">Registro de Usuarios</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="error_logear1">No hay Ningun Registro del Usuario Ingresado</string>
+    <string name="error_logear2">La contraseña no es válida o el usuario no tiene una contraseña.</string>
+    <string name="correo">Correo</string>
+    <string name="celular">Celular</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento (Dia/Mes/Año)</string>
+    <string name="usuario">Usuario</string>
+    <string name="m">Maculino</string>
+    <string name="f">Femenino</string>
+    <string name="re_contrasena">Repetir Contraseña</string>
+    <string name="continuar">Continuar</string>
+    <string name="email_errado">Formato de email errado, formato valido reservation@gmail.com</string>
+    <string name="contrasena_errado">la Contraseña  es muy corta, debe ser mayor a 6 caracteres</string>
+    <string name="datos_persona">Datos de la Persona</string>
+    <string name="cuenta_exite">El Email ya esta registrado en el sistema</string>
+    <string name="datos_usuario">Datos Usuario</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="reservas">Reservas</string>
+    <string name="registro_exito">Cuenta Registrada Con exito</string>
+    <string name="contrasena_diferentes">Las Contraseñas No Cainciden</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="terminar">Terminar</string>
+    <string name="ingrese_contrasena">Ingrese Contraseña</string>
+    <string name="cuenta_creada">Cuenta Creada Con Exito .!!!</string>
+    <string name="ingrese_re_contrasena">El campo Repetir Contraseña No puede estar vacio</string>
+    <string name="email_" translatable="false">Email</string>
+    <string name="reservar">Reservar</string>
+    <string name="texto_reservar">¿ Esta Seguro que desea Reservar la cancha En las Horas Selecionadas ?</string>
+    <string name="errado_nombre">Ingrese Nombre</string>
+    <string name="errado_correo">Ingrese Correo</string>
+    <string name="errado_nacimiento">Ingrese Fecha de Nacimiento</string>
+    <string name="errado_apellidos">Ingrese Apellidos</string>
+    <string name="errado_celular">Ingrese Celular</string>
+    <string name="nueva_reserva">Agregar Reserva</string>
+    <string name="establecimiento">Establecimiento</string>
+    <string name="sin_resultados">No se Encontraron Resultado</string>
+    <string name="hora"><b>Hora</b></string>
+    <string name="dato_busqueda">Ingrese Informacion a buscar</string>
+    <string name="estado"><b>Estado</b></string>
+    <string name="opcion"><b>Opcion</b></string>
+    <string name="metodo_busqueda">Seleccione Metodo de Busqueda</string>
+    <string name="ok_reserva">Reserva Agregada con exito</string>
+    <string name="ok_eliminar_reserva">Reserva Cancelada con exito</string>
+    <string name="tamano">Tamaño</string>
+    <string-array name="sexo">
+        <item>@string/m</item>
+        <item>@string/f</item>
+    </string-array>
+    <string-array name="op_busqueda">
+        <item>@string/metodo_busqueda</item>
+        <item>@string/establecimiento</item>
+        <item>@string/tamano</item>
+        <item>@string/num_estrellas</item>
+    </string-array>
+    <string name="title_activity_buscar__cancha">Buscar_Cancha</string>
+    <string name="buscar_cancha">Buscar Cancha</string>
+    <string name="dato">Dato</string>
+    <string name="buscar">Buscar</string>
+    <string name="fecha_reserva">Fecha de Reserva</string>
+    <string name="horas">Horarios Disponibles</string>
+    <string name="completar">Completar</string>
+    <string name="titulo_cancelar">Cancelar .!!</string>
+    <string name="titulo_sesion">Salir .!!</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="calificacion_ok">Calificacion Exitosa</string>
+    <string name="texto_cancelar_agregar_usuario"> ¿ Esta seguro que desea Cancelar El Registro de Usuario ?</string>
+    <string name="texto_cancelar_modificar_usuario"> ¿ Esta seguro que desea Cancelar la Modificación del usuario ?</string>
+    <string name="texto_cancelar_reserva"> ¿ Esta seguro que desea Cancelar la Reserva ?</string>
+    <string name="texto_cancelar_favoritos"> ¿ Esta seguro que desea Cancelar la Calificacion ?</string>
+    <string name="texto_cerra_sesion"> ¿ Esta seguro que desea Cerrar Sesion ?</string>
+    <string name="si_cancelar">Si</string>
+    <string name="no_cancelar" translatable="false">No</string>
+    <string name="cancha">Cancha</string>
+    <string name="direccion">Direccion</string>
+    <string name="fecha">Fecha</string>
+    <string name="datos_reserva">Datos Reserva</string>
+    <string name="calificar">Calificar</string>
+    <string name="valorar">Valorar</string>
+    <string name="seleccione_cal">Calificacion</string>
+    <string name="cargando">Cargando...</string>
+    <string name="misma_calificacion">No se Detectan Cambios</string>
+    <string name="error_dba">Verifique Su conexión de Internet</string>
+    <string name="datos_personales">Datos Personales</string>
+    <string name="datos">Datos</string>
+    <string name="modificar_usuario">Modificar Usuario</string>
+    <string name="error_cargar_detaller_eprsona">Error al cargar el Detalle de la Persona</string>
+    <string name="modificar">Modificar</string>
+    <string name="detaller_modificado">Datos Modificados Con Exito</string>
+    <string name="espere_porfavor">Espere Por favor...</string>
+    <string name="seleccione_horas">Debe seleccionar la Hora de la Reserva</string>
+    <string name="sistema">Sistema</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="info">Version 1 de ReservApp para Sistemas Operativos Android</string>
+    <string name="agregar_sugerencia">Agregar Sugerencia</string>
+    <string name="tema" >Tema</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="guardar">Guardar</string>
+    <string name="ingrese_descripcion">Ingrese Descripcion</string>
+    <string name="ingrese_tema">Ingrese Tema</string>
+    <string name="sugerencia_guardada">Gracias por su Sugerencia</string>
+    <string name="cancelar_sugerencia">¿ Esta Seguro que desea Cancelar la Sugerencia ?</string>
+    <string name="sugerencias">Sugerencias</string>
+    <string name="num_estrellas">Numero Estrellas</string>
+    <string name="error_fecha">La fecha de la Reserva No puede Ser menor que la Fecha actual</string>
+
+</resources>

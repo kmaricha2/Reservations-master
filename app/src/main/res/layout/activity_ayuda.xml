@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Layayuda"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondoq"
+    android:orientation="vertical"
+    tools:context="com.example.damian.reservations.Ayuda"
+    tools:layout_editor_absoluteX="8dp"
+    tools:layout_editor_absoluteY="8dp">
+
+    <LinearLayout
+        android:id="@+id/lay_inicio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/principalayuda"
+        android:onClick="buscar"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_buscar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="resultado"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_Resultados"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="fecha"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_fecha"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="hora"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_hora"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="reserva"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_compl_reserva"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="mireserva"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_prin_detaller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="detalle"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_Detaller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="cancelar"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_eliminar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="calificar"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay_favoritos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="inicio"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/editar_perfil"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/editar_perfil" />
+        <item
+            android:id="@+id/ayuda"
+            android:icon="@drawable/_search"
+            android:title="@string/ayuda" />
+        <item
+            android:id="@+id/informacion"
+            android:icon="@drawable/ic_error_outline_black_48dp"
+            android:title="@string/informacion" />
+        <item
+            android:id="@+id/sistema"
+            android:icon="@drawable/_settings"
+            android:title="@string/sistema" />
+    </group>
+
+    <item android:title="@string/opciones">
+        <menu>
+            <item
+                android:id="@+id/cerrar_sesion"
+                android:icon="@drawable/logout"
+                android:title="@string/cerrar_session" />
+        </menu>
+    </item>
+
+</menu>
